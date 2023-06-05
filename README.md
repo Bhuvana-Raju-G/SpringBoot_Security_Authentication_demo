@@ -9,3 +9,7 @@ you redirct to login page where it aks user name and password.
 when you give the correct credietnials only t will alloe you to move to the application if not it won't let you us ethe application you developed.
 
 refer the Screen Shots attached in this repositroy.
+
+To Login use 
+user Name :- user
+password: - the auto generatored password will be available in conole when you run the Preoject.
