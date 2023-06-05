@@ -10,6 +10,9 @@ when you give the correct credietnials only t will alloe you to move to the appl
 
 refer the Screen Shots attached in this repositroy.
 
+Use Dependencies :-  Spring Security, Spring Web.
+
+
 To Login use 
 user Name :- user
 password: - the auto generatored password will be available in conole when you run the Preoject.
